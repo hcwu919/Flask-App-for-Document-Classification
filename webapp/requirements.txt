@@ -1,0 +1,9 @@
+Flask
+werkzeug
+distribute
+wsgiref
+tensorflow
+keras
+pandas
+flask_wtf
+wtforms
